@@ -1,6 +1,6 @@
 # The Long-run Effects of Lockdowns in Ceará Economy Through Productivity
 
-The complet article and more detailed results [here.](https://rpubs.com/Heitor_Mont/)
+The complete article and more detailed results [here.](https://rpubs.com/Heitor_Mont/)
 
 To run the model in GAMS program, put this three files in the same directory address. The run generates a "results.gdx" file to compare with author's results.
 
